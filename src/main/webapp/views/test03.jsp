@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>집에서 추가한 파일</h1>
+	<pre>추가추가</pre>
 </body>
 </html>
