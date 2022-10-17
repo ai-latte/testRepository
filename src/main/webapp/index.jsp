@@ -18,5 +18,8 @@
 		<br><hr><br>
 	</div>
 	<h4>reset Test</h4>
+	<ol>
+		<li>오엘오엘</li>
+	</ol>
 </body>
 </html>
