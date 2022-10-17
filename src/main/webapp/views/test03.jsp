@@ -10,5 +10,6 @@
 	<h1>집에서 추가한 파일</h1>
 	<pre>추가추가</pre>
 	<h3>addContentbyuser02</h3>
+	<p>test3에 user1이 추가한 내용</p>
 </body>
 </html>
